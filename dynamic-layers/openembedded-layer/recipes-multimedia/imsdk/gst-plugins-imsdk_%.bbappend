@@ -1,1 +1,2 @@
-PACKAGECONFIG:append = " ml messaging"
+PACKAGECONFIG:append = " ml messaging sample-apps"
+
